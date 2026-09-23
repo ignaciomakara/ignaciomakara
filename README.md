@@ -1,23 +1,23 @@
-# Hola, soy Ignacio 👋
+# Hi, I'm Ignacio 👋
 
-Soy **Técnico Electrónico** y actualmente estudio la **Tecnicatura Universitaria en Programación**.
+I'm an **Electronics Technician** and currently pursuing a university-level technical degree in **Programming**.
 
-Trabajo como pasante en **Automatización e IT**, donde fui combinando experiencia en automatización industrial con participación en proyectos internos de software e infraestructura.
+I work as an intern in **Automation & IT**, where I've been combining experience in industrial automation with involvement in internal software and infrastructure projects.
 
-Me interesa especialmente la tecnología aplicada a problemas reales, tanto desde la automatización como desde el desarrollo de herramientas que ayuden a mejorar procesos y tareas internas.
+I'm especially interested in applying technology to real-world problems, both in automation and in developing tools that help improve processes and internal workflows.
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About me
 
-- 🎓 Técnico Electrónico.
-- 📚 Estudiante de la Tecnicatura Universitaria en Programación.
-- ⚙️ Experiencia en automatización industrial con Siemens.
-- 💻 Participación en proyectos internos de software e infraestructura.
-- 🤖 Uso de herramientas de IA como apoyo para desarrollo, pruebas, debugging y documentación.
-- 🚀 Interés en seguir creciendo en programación, infraestructura y automatización.
+- 🎓 Electronics Technician.
+- 📚 Currently studying Programming.
+- ⚙️ Experience in industrial automation with Siemens.
+- 💻 Involved in internal software and infrastructure projects.
+- 🤖 Use of AI tools to support development, testing, debugging and documentation.
+- 🚀 Interested in continuing to grow in programming, infrastructure and automation.
 
-## 🛠️ Tecnologías y herramientas con las que he trabajado
+## 🛠️ Technologies and tools I've worked with
 
-### ⚙️ Automatización
+### ⚙️ Automation
 
 ![Siemens](https://img.shields.io/badge/Siemens-S7--1200%20%2F%20S7--1500-009999?style=flat-square&logo=siemens&logoColor=white)
 ![TIA Portal](https://img.shields.io/badge/TIA%20Portal-LADDER%20%2F%20SCL-009999?style=flat-square)
@@ -25,13 +25,13 @@ Me interesa especialmente la tecnología aplicada a problemas reales, tanto desd
 ![PLCSIM Advanced](https://img.shields.io/badge/PLCSIM-Advanced-009999?style=flat-square)
 ![VMware](https://img.shields.io/badge/VMware-Virtualization-607078?style=flat-square&logo=vmware&logoColor=white)
 
-- Programación de PLC Siemens S7-1200 / S7-1500.
-- TIA Portal con LADDER y SCL.
-- Desarrollo de interfaces HMI con WinCC Unified.
-- Simulación y validación con PLCSIM Advanced.
-- Entornos virtualizados con VMware.
+- PLC programming with Siemens S7-1200 / S7-1500.
+- TIA Portal using LADDER and SCL.
+- HMI development with WinCC Unified.
+- Simulation and validation with PLCSIM Advanced.
+- Virtualized environments with VMware.
 
-### 💻 Software e infraestructura
+### 💻 Software & Infrastructure
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -43,14 +43,14 @@ Me interesa especialmente la tecnología aplicada a problemas reales, tanto desd
 - Linux.
 - Docker.
 - PostgreSQL.
-- Participación en desarrollo, pruebas, debugging e integración de herramientas internas.
-- Uso de herramientas de IA como apoyo durante el proceso de desarrollo.
+- Involvement in the development, testing, debugging and integration of internal tools.
+- Use of AI tools to support the development process.
 
-## 🎓 Formación académica
+## 🎓 Academic Background
 
-Actualmente estudio la **Tecnicatura Universitaria en Programación**, complementando mi experiencia técnica con formación en desarrollo de software.
+I'm currently studying **Programming**, complementing my technical experience with formal training in software development.
 
-### Tecnologías y conceptos trabajados
+### Technologies and concepts covered
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -62,25 +62,25 @@ Actualmente estudio la **Tecnicatura Universitaria en Programación**, complemen
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-- Programación Orientada a Objetos.
-- Desarrollo frontend y mobile.
-- Desarrollo backend.
-- APIs REST y arquitectura cliente-servidor.
-- HTTP / HTTPS y JSON.
-- Bases de datos y SQL.
-- Control de versiones con Git y GitHub.
-- Contenedores con Docker y Docker Compose.
+- Object-Oriented Programming.
+- Frontend and mobile development.
+- Backend development.
+- REST APIs and client-server architecture.
+- HTTP / HTTPS and JSON.
+- Databases and SQL.
+- Version control with Git and GitHub.
+- Containers with Docker and Docker Compose.
 
-## 📚 Actualmente estoy profundizando en
+## 📚 Currently learning and expanding my knowledge in
 
-- Desarrollo de software.
-- Arquitecturas cliente-servidor.
-- Desarrollo frontend y backend.
-- APIs y bases de datos.
-- Infraestructura de aplicaciones.
-- Buenas prácticas de Git y GitHub.
-- Uso de herramientas de IA aplicadas al desarrollo.
+- Software development.
+- Client-server architectures.
+- Frontend and backend development.
+- APIs and databases.
+- Application infrastructure.
+- Git and GitHub best practices.
+- AI-assisted tools applied to software development.
 
-## 📫 Contacto
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ignacio%20Makara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-makara/)
